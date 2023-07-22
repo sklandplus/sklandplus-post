@@ -1,6 +1,6 @@
 {
   "name": "@sklandplus/post",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Edit posts in Hypergryph Community `skland` without frustration",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
