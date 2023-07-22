@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.1 (2023-07-22)
+
+
+### Features
+
+* initial commit ([51a46e1](https://github.com/sklandplus/sklandplus-post/commit/51a46e1e98e702eb334f7bee98d9c43aebc25763))
+
 ### 0.0.3 (2023-07-19)
 
 ### Features
